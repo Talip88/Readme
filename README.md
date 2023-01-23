@@ -6,11 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talip88" alt="talip88" /></a> </p>
 
-- 🔭 I’m currently working in **Fidens Solutions Company**
+- 🔭 I’m currently working at **Fidens Solutions Company**
 
 - 🌱 I’m currently learning **Cypress**
 
 - 📫 How to reach me **talipclk1988@gmail.com**
+
+- 📄 Know about my experiences [www.linkedin.com/in/talipcolak](www.linkedin.com/in/talipcolak)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
