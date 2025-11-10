@@ -53,14 +53,9 @@
 
 - Data Analyst Bootcamp – **Clarusway**, New Jersey, USA (2025)  
 - Software Development Engineer in Test Bootcamp – **Techno Study**, New Jersey (2023–2024)  
-- B.A. in International Relations – **Anadolu University**, Turkey (2018–2022)  
 - B.A. – **Faculty of Security Sciences**, Police Academy, Turkey (2006–2010)
 
 ---
-
-### 📝 Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
