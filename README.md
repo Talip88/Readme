@@ -43,7 +43,7 @@
 
 - **Data & BI:** Power BI, Excel (Power Query, Power Pivot), i2 Analyst’s Notebook  
 - **Programming:** SQL, Java, DAX, M, JavaScript, HTML, CSS, JSON  
-- **Databases:** MySQL, HeidiSQL  
+- **Databases:** MySQL
 - **Testing & Automation:** Selenium, API & DB Testing, Postman, Cucumber, Jenkins  
 - **Methods & Tools:** Agile (Scrum), CI/CD, Jira, Confluence, ClickUp, Git/GitHub 
 
