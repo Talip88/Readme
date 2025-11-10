@@ -1,14 +1,12 @@
 # Readme
 <h1 align="center">Hi 👋, I'm Talip Çolak</h1>
-<h3 align="center">A passionate Software Development Engineer In Test/QA Engineer</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talip88&label=Profile%20views&color=0e75b6&style=flat" alt="talip88" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talip88" alt="talip88" /></a> </p>
 
-- 🔭 I’m currently working at **Fidens Solutions Company**
-
-- 🌱 I’m currently learning **Cypress**
+- 🔭 I’m currently working at Chef`s Deal Restaurant Equipment Company
 
 - 📫 How to reach me **talipclk1988@gmail.com**
 
