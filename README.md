@@ -1,6 +1,86 @@
 <h1 align="center">Hi 👋, I'm Talip Çolak</h1>
 <h3 align="center">Data Analyst | BI & QA Background</h3>
 
+<p align="center">
+  <a href="mailto:talipclk1988@gmail.com">📧 talipclk1988@gmail.com</a> |
+  📍 Elmwood Park, NJ |
+  <a href="https://www.linkedin.com/in/talipcolak">LinkedIn</a> |
+  <a href="https://github.com/Talip88/Data-Analytics-Portfolio">Portfolio</a> |
+  <a href="https://github.com/Talip88">GitHub</a>
+</p>
+
+---
+
+### 🧾 Summary
+
+- 3+ years of experience as a **Data Analyst** with expertise in **Excel, Power BI, SQL, Python, and Java**.  
+- Strong technical foundation in **data transformation (Power Query, Power Pivot)** and **visual analytics**.  
+- Previously worked as a **Criminal Data Analyst (Inspector)** at the **General Directorate of Security of Turkey**, analyzing complex **CDR datasets** for over 100 criminal investigations.  
+- Developed advanced analytical workflows using **i2 Analyst’s Notebook** to uncover hidden patterns in large datasets.  
+- Experienced in **QA, automation, and database testing**, ensuring accuracy and reliability in reporting.
+
+---
+
+### 🧠 Core Skills
+
+- **Data Tools:** Power BI, Excel (Power Query, Power Pivot), i2 Analyst’s Notebook  
+- **Programming:** SQL, Python, Java, DAX, M, JavaScript, HTML, CSS, JSON  
+- **Databases:** MySQL  
+- **Testing & Automation:** Selenium, API & DB Testing, Postman, Cucumber, Jenkins  
+- **Methods & Tools:** Agile (Scrum), CI/CD, Jira, Confluence, ClickUp, Git/GitHub  
+
+---
+
+### 💼 Experience
+
+#### **Data Analyst | Chef’s Deal, Nashville, TN (Remote)**  
+*May 2022 – Present*
+- Developed and maintained interactive **Excel** and **Power BI dashboards** for real-time reporting, cutting decision-making time by 25%.  
+- Designed **sales performance dashboards** improving forecasting accuracy and business metric visibility.  
+- Automated **competitor and internal pricing analysis**, reducing manual work and increasing pricing accuracy.  
+- Created **profitability and cost analysis dashboards** that revealed up to 18% potential savings.
+
+#### **Criminal Data Analyst (Inspector) | Ministry of Interior – General Directorate of Security, Turkey**  
+*Jun 2010 – May 2016*  
+- Analyzed large and complex **criminal and CDR datasets** to uncover network patterns.  
+- Led analytical teams in major investigations, developed workflows, and delivered data-driven insights to senior officials.  
+- Utilized **i2 Analyst’s Notebook** to visualize criminal networks and relationships in large datasets.
+
+---
+
+### 📊 Projects
+
+#### **Sales Performance Dashboard** | Power BI, SQL  
+- Built interactive dashboards to track **revenue, profit, and project performance** across states, vendors, and time periods — improving forecasting accuracy by 20%.  
+- Enhanced business insight via visual comparisons of **closed vs. unclosed projects**, **marketing category performance**, and **profitability trends**.
+
+#### **Pricing Correctness & Competition Analysis** | Power BI, SQL  
+- Automated price tracking dashboards integrating internal and external data — increased market share by 12%.  
+- Mapped competitor pricing with real-time BI reports to optimize pricing strategy and uncover discrepancies.
+
+#### **Profitability & Financial Analysis** | SQL, Power BI, Excel  
+- Created detailed **margin and cost dashboards**, identifying up to 18% in potential savings.  
+- Generated financial reports for smarter budget allocation and executive decision-making.
+
+---
+
+### 🎓 Education
+
+- **Data Analyst Bootcamp** – Clarusway, NJ, USA (2025)  
+- **Software Development Engineer in Test Bootcamp** – Techno Study, NJ (2023–2024)  
+- **B.A., Faculty of Security Sciences** – Police Academy, Turkey (2006–2010)  
+
+---
+
+### 🌐 Languages
+
+- **Turkish:** Native  
+- **English:** Professional Working Proficiency  
+
+---
+
+### 🌟 GitHub Highlights
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=talip88&label=Profile%20views&color=0e75b6&style=flat" alt="talip88" />
 </p>
@@ -8,90 +88,6 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=talip88" alt="talip88" />
-  </a>
-</p>
-
-- 🔭 I’m currently working as a **Data Analyst at Chef's Deal Restaurant Equipment** (Nashville, TN – Remote), building sales, pricing and profitability dashboards in **Power BI** and **Excel**.
-- 📊 I have **2+ years of data analytics experience** with a strong background in **QA, database testing and automation**, which helps me ensure data quality and reliable reporting.
-- 🕵️ Previously, I worked as a **Criminal Data Analyst (Inspector)** at the **General Directorate of Security of Turkey**, analyzing large and complex CDR datasets for 100+ investigations using **i2 Analyst’s Notebook**. 
-- 🧮 My daily toolbox includes **Power BI, Excel (Power Query, Power Pivot), SQL, DAX, M, Java, Selenium, and MySQL**. 
-- 🌍 Based in **Elmwood Park, NJ** – open to remote and hybrid opportunities.
-- 🌐 Languages: **Turkish (Native)**, **English (Professional Working Proficiency)**.
-
-- 📫 How to reach me: **talipclk1988@gmail.com**  
-- 📄 Learn more about my experience: [www.linkedin.com/in/talipcolak](https://www.linkedin.com/in/talipcolak) 
-
----
-
-### 💼 Selected Experience
-
-- **Data Analyst | Chef’s Deal (2023 – Present)**  
-  - Built interactive Power BI & Excel dashboards for real-time reporting, cutting decision-making time by 25%.  
-  - Designed sales performance and profitability dashboards to track revenue, profit, projects, and ad spend across states, vendors, and categories.  
-  - Automated competitor and internal pricing analysis, improving pricing accuracy and revealing up to 18% potential savings.
-
-- **Database Tester | Chef’s Deal (2022 – 2023)**  
-  - Created and maintained test cases and scripts for DB processes.  
-  - Used **Selenium + Java** to validate database updates and perform regression testing after deployments. 
-
-- **Criminal Data Analyst (Inspector) | General Directorate of Security, Turkey (2010 – 2016)**  
-  - Analyzed large criminal datasets and CDRs, uncovered network patterns, and led analytical teams in major investigations using **i2 Analyst’s Notebook**.
-
----
-
-### 🧠 Core Skills
-
-- **Data & BI:** Power BI, Excel (Power Query, Power Pivot), i2 Analyst’s Notebook  
-- **Programming:** SQL, Java, DAX, M, JavaScript, HTML, CSS, JSON  
-- **Databases:** MySQL
-- **Testing & Automation:** Selenium, API & DB Testing, Postman, Cucumber, Jenkins  
-- **Methods & Tools:** Agile (Scrum), CI/CD, Jira, Confluence, ClickUp, Git/GitHub 
-
----
-
-### 📚 Education
-
-- Data Analyst Bootcamp – **Clarusway**, New Jersey, USA (2025)  
-- Software Development Engineer in Test Bootcamp – **Techno Study**, New Jersey (2023–2024)  
-- B.A. – **Faculty of Security Sciences**, Police Academy, Turkey (2006–2010)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/talipcolak" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talipcolak" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@talipclk1988" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@talipclk1988" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" alt="powerbi" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" alt="excel" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
 </p>
 
@@ -105,4 +101,16 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talip88&" alt="talip88" />
+</p>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/talipcolak" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talipcolak" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@talipclk1988" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@talipclk1988" height="30" width="40" />
+  </a>
 </p>
