@@ -17,8 +17,7 @@
 - Strong technical foundation in **data transformation (Power Query, Power Pivot)** and **visual analytics**.  
 - Previously worked as a **Criminal Data Analyst (Inspector)** at the **General Directorate of Security of Turkey**, analyzing complex **CDR datasets** for over 100 criminal investigations.  
 - Developed advanced analytical workflows using **i2 Analyst’s Notebook** to uncover hidden patterns in large datasets.  
-- Experienced in **QA, automation, and database testing**, ensuring accuracy and reliability in reporting.
-
+  
 ---
 
 ### 🧠 Core Skills
@@ -26,7 +25,6 @@
 - **Data Tools:** Power BI, Excel (Power Query, Power Pivot), i2 Analyst’s Notebook  
 - **Programming:** SQL, Python, Java, DAX, M, JavaScript, HTML, CSS, JSON  
 - **Databases:** MySQL  
-- **Testing & Automation:** Selenium, API & DB Testing, Postman, Cucumber, Jenkins  
 - **Methods & Tools:** Agile (Scrum), CI/CD, Jira, Confluence, ClickUp, Git/GitHub  
 
 ---
@@ -66,8 +64,6 @@
 
 ### 🎓 Education
 
-- **Data Analyst Bootcamp** – Clarusway, NJ, USA (2025)  
-- **Software Development Engineer in Test Bootcamp** – Techno Study, NJ (2023–2024)  
 - **B.A., Faculty of Security Sciences** – Police Academy, Turkey (2006–2010)  
 
 ---
