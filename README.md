@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talip Çolak</h1>
-<h3 align="center">Data Analyst | BI & QA Background</h3>
+<h3 align="center">Data Analyst
 
 <p align="center">
   <a href="mailto:talipclk1988@gmail.com">📧 talipclk1988@gmail.com</a> |
